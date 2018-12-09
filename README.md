@@ -1,2 +1,2 @@
 # TP3mineracao
-
+Este trabalho utiliza regras de associaçao para tentar encontrar dados relevantes em candidatos nas eleições de 2014. Primeiro ele utiliza uma floresta randomica para tentar encontrar um padrão aceitável no mdelo que possa validar a disposição dos dados. Após encontrar quais dados são considerados mais importantes é utilizado o algoritmo apriori da ferramenta Weka para criar regras de associação. 
